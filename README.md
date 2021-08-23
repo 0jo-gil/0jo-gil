@@ -4,6 +4,7 @@
 ### Hi there 👋
 <img alt="Open VSX Rating (Stars)" src="https://img.shields.io/open-vsx/stars/redhat/java?color=red&label=html&style=flat-square">
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <!--
 **0jo-gil/0jo-gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
