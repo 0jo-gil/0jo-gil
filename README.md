@@ -14,7 +14,7 @@
 
 <h3>Contacts 📫</h3>
 
-<a href="mailto:0joofficial@mgail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<a href="mailto:0joofficial@mgail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://github.com/0jo-gil" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <!--
 **0jo-gil/0jo-gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
