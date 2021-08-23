@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=0jo's%World!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=0jo's%20World!&fontSize=90)
 
 
 ### Hi there 👋
